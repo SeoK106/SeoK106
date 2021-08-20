@@ -1,5 +1,5 @@
 👋 Hi, I’m **Seo-yeon Kim**.<br>
-👀 I’m interested in **Data Analytics** and **Computer Vision**.<br>
+👀 I’m interested in **Data Processing** and **Computer Vision**.<br>
 📫 Contact me through [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:sseok106@gmail.com)](mailto:sseok106@gmail.com)
 
 
